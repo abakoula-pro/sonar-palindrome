@@ -5,5 +5,16 @@
 **/*.bak
 **/*.swp
 
-.gradle
+# #################
+# Build
+# #################
+.gradle/
+target/
+build/
+
+# #################
+# Eclipse files
+# #################
+.eclipse
+.classpath
 
